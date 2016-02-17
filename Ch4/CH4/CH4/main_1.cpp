@@ -11,7 +11,7 @@
 #include <cmath>
 using namespace std;
 
-int main(){
+int main_1(){
     
     const double COST_PER_SQ_M = 10.50;
     double budget, area, length_side;
