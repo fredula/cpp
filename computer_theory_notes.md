@@ -30,7 +30,24 @@
 		<td colspan="2">Returned value is the value computed by the function.</td>
 	</tr>
 	<tr>
-		<td><b>Sqaure Root</b></td>
-		<td colspan="2">function: sqrt</td>
+		<td><b>Predefined Functions:</b></td>
+		<td colspan="2">
+			<ul>
+				<li>Name 			: sqrt</li>
+				<li>Description		: square root</li>
+				<li>Arguments		: double</li>
+				<li>Value returned	: double</li>
+				<li>Example 		: sqrt(9.0)</li>
+				<li>Library header 	: cmath</li>
+			</ul>
+			<ul>
+				<li>Name 			: pow</li>
+				<li>Description		: powers</li>
+				<li>Arguments		: double</li>
+				<li>Value returned	: double</li>
+				<li>Example 		: pow(2.0, 3.0)</li>
+				<li>Library header 	: cmath</li>
+			</ul>
+		</td>
 	</tr>
 </table>
