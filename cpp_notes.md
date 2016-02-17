@@ -33,20 +33,20 @@
 		<td><b>Predefined Functions:</b></td>
 		<td colspan="2">
 			<ul>
-				<li>Name 			&Tab: sqrt</li>
-				<li>Description		&Tab: square root</li>
-				<li>Arguments		&Tab: double</li>
-				<li>Value returned	&Tab: double</li>
-				<li>Example 		&Tab: sqrt(9.0)</li>
-				<li>Library header 	&Tab: cmath</li>
+				<li>Name 			: sqrt</li>
+				<li>Description		: square root</li>
+				<li>Arguments		: double</li>
+				<li>Value returned	: double</li>
+				<li>Example 		: sqrt(9.0)</li>
+				<li>Library header 	: cmath</li>
 			</ul>
 			<ul>
-				<li>Name 			&Tab: pow</li>
-				<li>Description		&Tab: powers</li>
-				<li>Arguments		&Tab: double</li>
-				<li>Value returned	&Tab: double</li>
-				<li>Example 		&Tab: pow(2.0, 3.0)</li>
-				<li>Library header 	&Tab: cmath</li>
+				<li>Name 			: pow</li>
+				<li>Description		: powers</li>
+				<li>Arguments		: double</li>
+				<li>Value returned	: double</li>
+				<li>Example 		: pow(2.0, 3.0)</li>
+				<li>Library header 	: cmath</li>
 			</ul>
 		</td>
 	</tr>
