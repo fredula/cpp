@@ -29,4 +29,8 @@
 		<td><b>Returned Value</b></td>
 		<td colspan="2">Returned value is the value computed by the function.</td>
 	</tr>
+	<tr>
+		<td><b>Sqaure Root</b></td>
+		<td colspan="2">function: sqrt</td>
+	</tr>
 </table>
