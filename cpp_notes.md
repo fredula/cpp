@@ -90,4 +90,28 @@
 			</ul>
 		</td>
 	</tr>
+	<tr>
+		<td><b>Type Casting</b></td>
+		<td colspan="2">Convert one data type to another.</td>
+	</tr>
+	<tr>
+		<td><b>Formal Parameters</b></td>
+		<td colspan="2">They are found in the function header. Act as placeholders for the arguments passed through when the function is invoked.</td>
+	</tr>
+	<tr>
+		<td><b>Function definition</b></td>
+		<td colspan="2">Describes how the function will run and compute what it needs to.</td>
+	</tr>
+	<tr>
+		<td><b>Function header</b></td>
+		<td colspan="2">The name of the function, parenthesis and arguments.</td>
+	</tr>
+	<tr>
+		<td><b>Function body</b></td>
+		<td colspan="2">Consists of statements and expressions to compute what the function needs to. Wrapped in curly braces.</td>
+	</tr>
+	<tr>
+		<td><b>Procedural Abstraction</b></td>
+		<td colspan="2">Black box analogy. No programmer needs to know what goes on in the function. If the invoke the function and plug in the correct arguments and it returns the correct value, thats all that matters.</td>
+	</tr>
 </table>
