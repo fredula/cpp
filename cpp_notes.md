@@ -120,6 +120,18 @@
 	</tr>
 	<tr>
 		<td><b>Local Variables</b></td>
-		<td colspan="2">These variables are local to a specific subroutine or function.</td>
+		<td colspan="2">These variables are local to a specific subroutine or function. They have function scope or local scope.</td>
+	</tr>
+	<tr>
+		<td colspan="3"><b>Revision and Miscellanaous</b></td>
+	</tr>
+	<tr>
+		<td><b>Preprocessor</b></td>
+		<td colspan="2">All the include statements. These allow you to importa libraries to make coding a bit easier. 
+		To declare use #include &lt;iostream&gt; </td>
+	</tr>
+	<tr>
+		<td><b>iostream</b></td>
+		<td colspan="2">A library that allows use of cin, cout....</td>
 	</tr>
 </table>
