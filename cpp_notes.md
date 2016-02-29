@@ -123,6 +123,10 @@
 		<td colspan="2">These variables are local to a specific subroutine or function. They have function scope or local scope.</td>
 	</tr>
 	<tr>
+		<td><b>Global named constant</b></td>
+		<td colspan="2">A constant declared before all the function body.</td>
+	</tr>
+	<tr>
 		<td colspan="3"><b>Revision and Miscellanaous</b></td>
 	</tr>
 	<tr>
