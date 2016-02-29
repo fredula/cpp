@@ -112,6 +112,14 @@
 	</tr>
 	<tr>
 		<td><b>Procedural Abstraction</b></td>
-		<td colspan="2">Black box analogy. No programmer needs to know what goes on in the function. If the invoke the function and plug in the correct arguments and it returns the correct value, thats all that matters.</td>
+		<td colspan="2">Black box analogy. No programmer needs to know what goes on in the function. If the function is invoked and plug in the correct arguments and it returns the correct value, thats all that matters.</td>
+	</tr>
+	<tr>
+		<td><b>Pseudocode</b></td>
+		<td colspan="2">A mixture of English and C++. Helps to build algorithms.</td>
+	</tr>
+	<tr>
+		<td><b>Local Variables</b></td>
+		<td colspan="2">These variables are local to a specific subroutine or function.</td>
 	</tr>
 </table>

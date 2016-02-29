@@ -12,7 +12,7 @@ using namespace std;
 
 double total_cost(int number_par, double price_par);
 
-int main(){
+int main_5(){
     double price, bill;
     int number;
     
