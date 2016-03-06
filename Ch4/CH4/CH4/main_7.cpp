@@ -17,7 +17,7 @@ using namespace std;
 //          - @pod_count the number of pods
 double est_total(int min_peas, int max_peas, int pod_count);
 
-int main(){
+int main_7(){
     
     int max_count, min_count, pod_count;
     //average pea is local to main function

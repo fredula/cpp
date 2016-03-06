@@ -138,4 +138,8 @@
 		<td><b>iostream</b></td>
 		<td colspan="2">A library that allows use of cin, cout....</td>
 	</tr>
+	<tr>
+		<td><b>Overloading</b></td>
+		<td colspan="2">You can give two or more functions different definitions.</td>
+	</tr>
 </table>
