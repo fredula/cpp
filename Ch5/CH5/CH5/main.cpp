@@ -16,7 +16,7 @@ double celcius(double fahrenheit);
 //displays output. Assumes that c_degrees Celcius is equal to f_degrees
 void show_results(double f_degrees, double c_degrees);
 
-int main() {
+int main_0() {
     
     using namespace std;
     double f_temperature, c_temperature;

@@ -142,4 +142,23 @@
 		<td><b>Overloading</b></td>
 		<td colspan="2">You can give two or more functions different definitions.</td>
 	</tr>
+	<tr>
+		<td colspan="3"><b>Chapter 5</b></td>
+	</tr>
+	<tr>
+		<td><b>Void function</b></td>
+		<td colspan="2">A function that doesn't return a value.</td>
+	</tr>
+	<tr>
+		<td><b>Note:</b></td>
+		<td colspan="2">When a function is invoked, the arguments are plugged into the parameters. They have a value for the first time.</td>
+	</tr>
+	<tr>
+		<td><b>Call by value</b></td>
+		<td colspan="2">The function parameter takes the argument passed in and does not change the value in any way.</td>
+	</tr>
+	<tr>
+		<td><b>Call by reference</b></td>
+		<td colspan="2">The function parameter is substituted by the argument variable. The argument variable value can be changed by the function.</td>
+	</tr>
 </table>
