@@ -161,4 +161,68 @@
 		<td><b>Call by reference</b></td>
 		<td colspan="2">The function parameter is substituted by the argument variable. The argument variable value can be changed by the function.</td>
 	</tr>
+	<tr>
+		<td colspan="3"><b>Chapter 6</b></td>
+	</tr>
+	<tr>
+		<td><b>Some Predefined Functions in cctype:</b></td>
+		<td colspan="2">
+			<ul>
+				<li>Name 			: toupper</li>
+				<li>Description		: returns the uppercase value of a character</li>
+				<li>Arguments		: char</li>
+				<li>Value returned	: int</li>
+				<li>Example 		: toupper('a')</li>
+				<li>Library header 	: cctype</li>
+			</ul>
+			<ul>
+				<li>Name 			: tolower</li>
+				<li>Description		: returns the lowercase of a character</li>
+				<li>Arguments		: char</li>
+				<li>Value returned	: int</li>
+				<li>Example 		: tolower('a')</li>
+				<li>Library header 	: cctype</li>
+			</ul>
+			<ul>
+				<li>Name 			: isupper</li>
+				<li>Description		: returns true if the char is uppercase</li>
+				<li>Arguments		: char</li>
+				<li>Value returned	: boolean</li>
+				<li>Example 		: isupper('a')</li>
+				<li>Library header 	: cctype</li>
+			</ul>
+			<ul>
+				<li>Name 			: islower</li>
+				<li>Description		: returns true if the char is lowercase</li>
+				<li>Arguments		: char</li>
+				<li>Value returned	: boolean</li>
+				<li>Example 		: islower('a')</li>
+				<li>Library header 	: cctype</li>
+			</ul>
+			<ul>
+				<li>Name 			: isalpha</li>
+				<li>Description		: returns true if value is a character in the alphabet</li>
+				<li>Arguments		: char</li>
+				<li>Value returned	: boolean</li>
+				<li>Example 		: isalpha('a')</li>
+				<li>Library header 	: cctype</li>
+			</ul>
+			<ul>
+				<li>Name 			: isdigit</li>
+				<li>Description		: returns true if value is a digit from 0 - 9</li>
+				<li>Arguments		: char</li>
+				<li>Value returned	: boolean</li>
+				<li>Example 		: isdigit('3')</li>
+				<li>Library header 	: cctype</li>
+			</ul>
+			<ul>
+				<li>Name 			: isspace</li>
+				<li>Description		: returns true if whitespace character is encountered</li>
+				<li>Arguments		: char</li>
+				<li>Value returned	: boolean</li>
+				<li>Example 		: isspace(c) //will be used in a while loop most likely</li>
+				<li>Library header 	: cctype</li>
+			</ul>
+		</td>
+	</tr>
 </table>

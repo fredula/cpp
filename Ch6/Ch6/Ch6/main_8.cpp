@@ -5,6 +5,7 @@
 //  Created by Fred Naude on 2016/04/03.
 //  Copyright (c) 2016 Fred Naude. All rights reserved.
 //  A program to replace text with another string
+//  This program opens the file, and replaces text in the file with another string
 
 #include <iostream>
 #include <fstream>
@@ -15,7 +16,7 @@ using namespace std;
 //Post condition: contents of in_stream are copied to out_stream but C replace with C++
 void add_plus_plus(ifstream& in_stream, ofstream& out_stream);
 
-int main(){
+int main_8(){
     ifstream fin;
     ofstream fout;
     
